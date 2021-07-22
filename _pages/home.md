@@ -2,26 +2,13 @@
 title: "Home"
 layout: homelay
 sitemap: false
+author_profile: true
 permalink: /
 ---
 
-## Welcome!
+## Welcome to my website!
 
-Nano-scale transistors fill warehouse-scale supercomputers.
-Still, their performance constrains development of the jets that transport and defend us, the medical therapies our lives depend upon, and the renewable energy sources that will power our generation into the next.
-The Bryngelson Group develops state-of-the-art **computational models** and **numerical methods** to push these applications forward.
-Our formulations leverage domain expertise in physics and biology and data-driven tools like machine learning and data assimilation.
-We deliver open-source scientific software that utilizes these methods and scales to the world's largest computers. 
+I am a 4<sup>th</sup> year doctoral student in Materials Science and Engineering, at the University of Michigan Ann Arbor, USA. My current research interests are investigating the atomic and electronic scale origins of surface passivation in crystalline and glassy oxides (Al<sub>2</sub>O<sub>3</sub> and SiO<sub>2</sub>), by implementing first principles and classial simulations. I also develop and implement thermokinetic simulations based on computational thermodynamic, to investigate high temperature gas corrosion in heat exchanger materials (Fe and Ni alloys).
 
-## Some examples of our work
+My previous research experience includes experimental analysis of the structural, chemical and electronic properties of epitaxial 2-dimentional films, such as MoSe<sub>2-x</sub>Te<sub>2</sub> and WSe<sub>2</sub>. Particularly, I have employed diffraction and spectroscopic methods to investigate their atomic structure. 
 
-Bubble cavitation can ablate kidney stones, but wreaks havoc on marine propellers.
-We developed a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">data-driven sub-grid method</a> for simulating this phenomenon.
-It utilizes a LSTM recurrent neural network to close the governing equations at low cost.
-<a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, our open-source multi-phase flow solver, demonstrates this method.
-MFC is also capable of fully-resolved multi-phase fluid dynamics via the diffuse-interface method.
-
-<iframe src="https://player.vimeo.com/video/455688517?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="100%" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-
-The spectral boundary integral method leads to <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRF-18.pdf" target="_blank">high-fidelity prediction and analysis</a> of blood cells transitioning to chaos in a microfluidic device (above).
-We developed a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for the cell-scale flow, important for guiding microfluidic device design and improving treatment outcomes.

@@ -249,6 +249,7 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+  width: 200px;
 }
 
 button,
@@ -300,6 +301,7 @@ input[type="checkbox"] {
 textarea {
   overflow: auto;
   resize: vertical;
+  width: 200px;
 }
 
 fieldset {
@@ -2161,6 +2163,7 @@ select.form-control[size], select.form-control[multiple] {
 
 textarea.form-control {
   height: auto;
+  width: 200px;
 }
 
 .form-group {
@@ -2275,7 +2278,7 @@ textarea.form-control {
 }
 
 .was-validated textarea.form-control:valid, textarea.form-control.is-valid {
-  padding-right: calc(1.5em + 0.75rem);
+  padding-right: calc(0em + 0rem);
   background-position: top calc(0.375em + 0.1875rem) right calc(0.375em + 0.1875rem);
 }
 
@@ -2381,7 +2384,7 @@ textarea.form-control {
 }
 
 .was-validated textarea.form-control:invalid, textarea.form-control.is-invalid {
-  padding-right: calc(1.5em + 0.75rem);
+  padding-right: calc(0em + 0rem);
   background-position: top calc(0.375em + 0.1875rem) right calc(0.375em + 0.1875rem);
 }
 
@@ -5303,7 +5306,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .jumbotron {
-  padding: 2rem 1rem;
+  padding: 0rem 0rem;
   margin-bottom: 2rem;
   background-color: #073642;
   border-radius: 0.3rem;
@@ -5311,7 +5314,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 @media (min-width: 576px) {
   .jumbotron {
-    padding: 4rem 2rem;
+    padding: 0rem 0rem;
   }
 }
 

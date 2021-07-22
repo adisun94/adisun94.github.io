@@ -1,45 +1,137 @@
-# Site settings
-title: Bryngelson Research Group
-email: spencer@caltech.edu
-description: Webpage of the Bryngelson Research Group
-baseurl: ""
-url: ""
+# Site Settings
+locale                   : "en-US"
+title                    : "Aditya Sundar"
+title_separator          : "-"
+name                     : &name "Aditya Sundar"
+description              : &description "personal description"
+url                      : https://adisun94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "adisun94/adisun94.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
 # Google analytics ID: Remove or use your own!
 google_analytics: UA-167467135-1
 google_analytics_4: G-02KDGRRB2T
 google_tag_manager: GTM-TZ9Z7HZ
 
+# Site Author
+author:
+  name             : "Aditya Sundar"
+  avatar           : "Aditya.jpg"
+  bio              : "Ph.D student in Materials Science"
+  location         : "University of Michigan, USA"
+  links:
+    - label: "Made Mistakes"
+      icon: "fa fa-home"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=k-nqUdgAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "aditya.1094@gmail.com?cc=adisun@umich.edu"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        : 
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "adisun94"
+  google_plus      :
+  keybase          :
+  #instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "aditya-sundar-b7a966120/"
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  #twitter          : #"replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 # Footer info
-about: >
-    Prof. Spencer H. Bryngelson<br/>
-    College of Computing, <a href="https://cse.gatech.edu/" target="_blank">CSE</a><br/>
-    Georgia Institute of Technology
+#about: >
+#    Prof. Spencer H. Bryngelson<br/>
+#    College of Computing, <a href="https://cse.gatech.edu/" target="_blank">CSE</a><br/>
+#    Georgia Institute of Technology
 
-coordinates: >
-  <a href="https://codatechsquare.com/" target="_blank">CODA</a><br/>
-  756 W Peachtree St<br/>
-  Atlanta, GA 30332
+#coordinates: >
+#  <a href="https://codatechsquare.com/" target="_blank">CODA</a><br/>
+#  756 W Peachtree St<br/>
+#  Atlanta, GA 30332
 
-information: >
-    <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use my site as a template!</a> <br/>
-    <a href="/vacancies.html"><i class="fa fa-users fa-1x"></i> Explore openings</a>
+#information: >
+#    <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
+#    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use my site as a template!</a> <br/>
+#    <a href="/vacancies.html"><i class="fa fa-users fa-1x"></i> Explore openings</a>
 
 
 # Pages shown in navbar
 nav_pages:
-  - name: team
+  - name: bio
+  - name: experience 
+# - name: team
   - name: publications
-  - name: research
-  - name: software
-
+#  - name: research
+# - name: software
+  - name: projects
 # - name: about
-# - name: teaching
+  - name: teaching
 
 include:
   - .htaccess
   - _pages
+  - files
 
 # Conversion
 markdown: kramdown
@@ -65,8 +157,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Bryngelson
-  first_name: [Spencer H.]
+  last_name: Sundar
+  first_name: [Aditya]
 
   style: shb
   locale: en
@@ -96,3 +188,4 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+

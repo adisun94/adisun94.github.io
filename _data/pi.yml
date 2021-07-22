@@ -1,10 +1,9 @@
-- name: Spencer Bryngelson
-  photo: spencer_headshot.jpg
-  info: <i>Assistant Professor</i><br/> College of Computing <br/>Georgia Tech 
-  email: spencer@caltech.edu
-  github: https://github.com/sbryngelson
-  researchgate: https://www.researchgate.net/profile/Spencer_Bryngelson
-  scholar: https://scholar.google.com/citations?user=dM-nHdMAAAAJ&hl=en
+- name: Aditya Sundar
+  photo: Aditya.jpg
+  info: <i>Ph.D student in Materials Science</i>
+  email: adisun@umich.edu
+  github: https://github.com/adisun94
+  scholar: https://scholar.google.com/citations?user=k-nqUdgAAAAJ&hl=en&authuser=1
   cv: cv/cv.pdf
   education1: (2021- ) Assistant Professor of <a href="https://cse.gatech.edu/" target="_blank">CSE</a>, Georgia Tech
   education2: (2018-21) Senior Postdoc, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
