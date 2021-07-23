@@ -40,7 +40,8 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
  <h4>Idaho National Laboratory, Idaho Falls, USA, Summer 2021</h4>
- <h5> Research Internship, Computational Mechanics and Materials Department</h5>
+ <h5> Research Internship, Computational Mechanics and Materials Organisation</h5>
+  Investigation of hydrogen stability and transport in candidate nuclear microreactor materials, using density functional theory and kinetic monte carlo methods
 </div>
 </div>
 </div>
