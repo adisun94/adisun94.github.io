@@ -42,17 +42,9 @@ iframe {
  <h4>Idaho National Laboratory, Idaho Falls, USA, Summer 2021</h4>
  <h5> Research Internship, Computational Mechanics and Materials Organisation</h5>
  <ul>
-<li><font color="#AFAF00">Ph.D in Materials Science and Engineering, University of Michigan, USA, 2022 (expected)</font><br>
-Certificate in Computational Discovery and Engineering<br>
-Thesis title: <u>Multi-scale modelling of corrosion in crystalline and amorphous oxides</u><br>
-Advisor: <a href="http://cms.engin.umich.edu" target="_blank">Liang Qi</a></li><br>
-<li><font color="#AFAF00">M.S. in Materials Science and Engineering, Cornell University, USA, 2017</font><br>
-Thesis title: <u>The Structure and Chemistry of Epitaxial 2D Chalcogenides</u><br>
-Advisor: <a href="http://jena-xing.engineering.cornell.edu/" target="_blank">Huili Grace Xing</a></li><br>
-<li><font color="#AFAF00">B.Tech in Metallurgical and Materials Engineeringy, IIT Madras, India, 2015</font><br>
-Minor in Management Studies<br>
-Thesis title: <u>Printed Silver Lines in MIS Solar Cells</u><br>
-Advisor: <a href="http://mme.iitm.ac.in/swamnthn/" target="_blank">Parasuraman Swaminathan</a></li>
+<li>Modeling hydrogen stability and transport in nuclear reactor materials using density functional theory calculations, ab initio molecular dynamics and kinetic monte carlo simulations, to recommend suitable nuclear reactor materials</li><br>
+<li>Predicting the elastic constants and vibrational frequency of hydrides from density functional perturbation theory calculations; collaboration with experimental team to validate calculations</li><br>
+<li>Learning the application of neural networks to solve materials problems.</li>
 </ul>
 </div>
 </div>
@@ -63,6 +55,10 @@ Advisor: <a href="http://mme.iitm.ac.in/swamnthn/" target="_blank">Parasuraman S
 <div class="col-md-12 col-sm-12">
  <h4>Larsen and Toubro, Mumbai, India, Summer 2013</h4>
  <h5>Engineering Internship, Heavy Engineering Division</h5>
+  <ul>
+    <li>Used non destructive evaluation techniques such as liquid dye penetrant testing and ultrasonic testing to identify surface and internal defects (cracks and porosity) in weld components
+    </li>
+  </ul>
 </div>
 </div>
 </div>
