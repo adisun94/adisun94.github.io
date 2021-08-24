@@ -42,7 +42,7 @@ iframe {
  <h4>Idaho National Laboratory, Idaho Falls, USA, Summer 2021</h4>
  <h5> Research Internship, Computational Mechanics and Materials Organisation</h5>
  <ul>
-<li>Modeling hydrogen stability and transport in nuclear reactor materials using density functional theory calculations, ab initio molecular dynamics and kinetic monte carlo simulations, to recommend suitable nuclear reactor materials</li><br>
+<li>Modeling hydrogen stability and transport in nuclear reactor materials using density functional theory calculations, ab initio molecular dynamics and kinetic monte carlo simulations, to recommend suitable nuclear reactor materials. <a href="{{ site.url }}{{ site.baseurl }}/papers/AdityaSundar_InternPoster_INL.pdf" target="_blank">Poster</a>.</li><br>
 <li>Predicting the elastic constants and vibrational frequency of hydrides from density functional perturbation theory calculations; collaboration with experimental team to validate calculations</li><br>
 <li>Learning the application of neural networks to solve materials problems.</li>
 </ul>
