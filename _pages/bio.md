@@ -71,7 +71,8 @@ Advisor: <a href="http://mme.iitm.ac.in/swamnthn/" target="_blank">Parasuraman S
 <li><font color="#AFAF00">Methods</font> : Electronic structure, molecular dynamics, monte carlo, thermodynamics, spectroscopy</li>
 <li><font color="#AFAF00">Atomic simulation</font> : VASP, Quantum ESPRESSO, LAMMPS, ART</li>
 <li><font color="#AFAF00">Materials simulation</font> : Thermo-Calc, Abaqus FEA</li>
-<li><font color="#AFAF00">Computation and design</font> : Mathematica, Python, LaTeX, Linux</li>
+<li><font color="#AFAF00">Computation and design</font> : Python, Mathematica, LaTeX, Linux, HPC</li>
+<li><font color="#AFAF00">Data Analysis</font>: Machine learning (NumPy, Scikit, openCV, Jupyter, R), mpi4py, pymatgen</li>
 <li><font color="#AFAF00">Surface diffraction</font> : XRD, XRR, XPS, EXAFS, Raman</li>
 <li><font color="#AFAF00">Surface imaging</font> : SEM, Conductive-AFM</li>
 </ul>
