@@ -6,7 +6,7 @@ permalink: /bio/
 ---
 
 
-## Bio <a href="{{ site.url }}{{ site.baseurl }}/cv/AdityaSundar_CV_Jan2022.pdf" target="_blank"><i class="ai ai-cv-square ai-1x"></i></a>
+## Bio <a href="{{ site.url }}{{ site.baseurl }}/cv/AdityaSundar_CV_Feb2022.pdf" target="_blank"><i class="ai ai-cv-square ai-1x"></i></a>
 
 
 <style>
