@@ -8,7 +8,7 @@ permalink: /
 
 ## Welcome to my website!
 
-I am a final year doctoral student in Materials Science and Engineering, at the University of Michigan Ann Arbor, USA. My research interests and experience are in investigating the performance in reactive environments using multiscale modeling methods. I have reserached materials used in various applications, including  battery materials \& interfaces, ionic conduction, calalysis, hydrogen storage and alloy design.
+I am a final year doctoral student in Materials Science and Engineering, at the University of Michigan Ann Arbor, USA. My research interests and experience are in investigating the performance in reactive environments using multiscale modeling methods. I have reserached materials used in various applications, including  battery materials & interfaces, ionic conduction, calalysis, hydrogen storage and alloy design.
 
 <div class="col-md-18 col-sm-12" style="background-color:transparent" >
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/cover.png" width="700px"/>
