@@ -47,8 +47,7 @@ iframe {
 <div class="jumbotron">
  <h4>Journal articles</h4>
 <ol>
-<li><u><b>Sundar,A.</b></u>, Huang, Y., Yu, J., & Cinbiz, M. (2021). Charge transfer, localisation and metallicity lead to large hydrogen
-    retention capacity in transition metal dihydrides: YH2 and ZrH2, <i>Submitted</i> <br></li>    
+<li><u><b>Sundar,A.</b></u>, Huang, Y., Cinbiz, M. & Yu, J. (2022). The impacts of charge transfer, localization, and metallicity on hydrogen retention and transport capacity, <i>Accepted by the International Journal of Hydrogen Energy</i> <br></li>    
 <li>Hu, Y.,<u><b>Sundar,A.</b></u>, Ogata, S., & Qi, L. (2021). Screening of generalized stacking fault energies, surface energies and intrinsic ductile potency of refractory multicomponent alloys, <i>Acta Materialia</i>, 116800. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645421001804" target="_blank">DOI</a>.<br></li>
 <li><u><b>Sundar,A.</b></u>, Chen, G., & Qi, L. (2021b). Substitutional adsorptions of chloride at grain boundary sites onhydroxylated alumina surfaces initialize localized corrosion. <i>npj Materials Degradation</i>, 5.link.
  <a href="https://doi.org/10.1038/s41529-021-00161-w" target="_blank">DOI</a>.<br></li>
