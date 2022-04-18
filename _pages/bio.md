@@ -43,7 +43,7 @@ iframe {
 <ul>
 <li><font color="#AFAF00">Ph.D in Materials Science and Engineering, University of Michigan, USA, 2022 (expected)</font><br>
 Certificate in Computational Discovery and Engineering<br>
-Thesis title: <u>Modelling the structural and chemical stability of materials in extreme environments</u><br>
+Thesis title: <u>Modelling the structural and chemical stability of materials in reactive environments using multiscale methods</u><br>
 Advisor: <a href="http://cms.engin.umich.edu" target="_blank">Liang Qi</a></li><br>
 <li><font color="#AFAF00">M.S. in Materials Science and Engineering, Cornell University, USA, 2017</font><br>
 Thesis title: <u>The Structure and Chemistry of Epitaxial 2D Chalcogenides</u><br>
