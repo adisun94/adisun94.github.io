@@ -56,17 +56,17 @@ This has impacted application-specific treatments, including:
  
 </div>
   
-<div class="col-md-6 col-sm-12" style="background-color:transparent;">
+<div class="col-md-3 col-sm-12" style="background-color:transparent;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/CU.png" width="100" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/CU.png" width="100" /> 
 </div> 
   
-<div class="col-md-6 col-sm-12" style="background-color:transparent;">
+<div class="col-md-4 col-sm-12" style="background-color:transparent;">
   <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
 </div>
   
   
-<div class="col-md-6 col-sm-12" style="background-color:transparent;">
+<div class="col-md-4 col-sm-12" style="background-color:transparent;">
   <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
 </div>
   
