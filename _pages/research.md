@@ -60,7 +60,6 @@ This has impacted application-specific treatments, including:
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/CU.png" width="100" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/CU.png" width="100" /> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/CU.png" width="100" />
-  <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
 </div> 
   
 <div class="col-md-6 col-sm-12" style="background-color:transparent;">
