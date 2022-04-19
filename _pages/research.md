@@ -53,7 +53,7 @@ This has impacted application-specific treatments, including:
 * Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="182px" frameborder="0" allow="autoplay"></iframe>
 </div>
 </div>
 </div>
