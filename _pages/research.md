@@ -58,8 +58,7 @@ This has impacted application-specific treatments, including:
 </div>
 </div>
 
-  <!-- <iframe src="https://player.vimeo.com/video/455887852?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="142px" frameborder="0" allow="autoplay"></iframe> -->
-
+  <!-- <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="142px" frameborder="0" allow="autoplay"></iframe> -->
 
 <div class="jumbotron">
 <div class="row align-items-end">
