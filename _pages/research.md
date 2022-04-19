@@ -51,23 +51,15 @@ This has impacted application-specific treatments, including:
 * Improved _burst-wave lithotripsy administration_ in human trials 
 * Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
 * Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
- 
 
- 
+</div>
+    
+<div class="col-md-4 col-sm-12" style="background-color:transparent;">
+  <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="500px" frameborder="0" allow="autoplay"></iframe>
 </div>
   
-<div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/CU.png" width="100" />
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/CU.png" width="100" /> 
-</div> 
-  
 <div class="col-md-4 col-sm-12" style="background-color:transparent;">
-  <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
-</div>
-  
-  
-<div class="col-md-4 col-sm-12" style="background-color:transparent;">
-  <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl2.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="500px" frameborder="0" allow="autoplay"></iframe>
 </div>
   
 </div>
