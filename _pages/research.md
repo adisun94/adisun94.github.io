@@ -64,6 +64,7 @@ This has impacted application-specific treatments, including:
   
 <div class="col-md-6 col-sm-12" style="background-color:transparent;">
   <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
 </div>
 </div>
 </div>
