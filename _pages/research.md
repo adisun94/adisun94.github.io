@@ -52,11 +52,11 @@ This has impacted application-specific treatments, including:
 * Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
 * Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
  
-<p float="left">
+<div class="col-md-6 col-sm-12" style="background-color:transparent;">
   <img src="/CU.png" width="100" />
   <img src="/CU.png" width="100" /> 
   <img src="/CU.png" width="100" />
-</p>
+</div>
  
 </div>
 <div class="col-md-6 col-sm-12" style="background-color:transparent;">
