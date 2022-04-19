@@ -56,7 +56,7 @@ This has impacted application-specific treatments, including:
  
 </div>
   
-<div class="col-md-6 col-sm-12" style="background-color:transparent;">>
+<div class="col-md-6 col-sm-12" style="background-color:transparent;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/CU.png" width="100" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/CU.png" width="100" /> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/CU.png" width="100" />
