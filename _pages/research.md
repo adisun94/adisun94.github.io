@@ -51,6 +51,13 @@ This has impacted application-specific treatments, including:
 * Improved _burst-wave lithotripsy administration_ in human trials 
 * Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
 * Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
+ 
+<p float="left">
+  <img src="/CU.png" width="100" />
+  <img src="/CU.png" width="100" /> 
+  <img src="/CU.png" width="100" />
+</p>
+ 
 </div>
 <div class="col-md-6 col-sm-12" style="background-color:transparent;">
   <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="500px" frameborder="0" allow="autoplay"></iframe>
@@ -58,11 +65,6 @@ This has impacted application-specific treatments, including:
 </div>
 </div>
 
-<p float="left">
-  <img src="/CU.png" width="100" />
-  <img src="/CU.png" width="100" /> 
-  <img src="/CU.png" width="100" />
-</p>
 
 <div class="jumbotron">
 <div class="row align-items-end">
