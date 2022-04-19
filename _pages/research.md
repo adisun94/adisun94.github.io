@@ -58,7 +58,11 @@ This has impacted application-specific treatments, including:
 </div>
 </div>
 
-  <!-- <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4" height="142px" frameborder="0" allow="autoplay"></iframe> -->
+<p float="left">
+  <img src="/CU.png" width="100" />
+  <img src="/CU.png" width="100" /> 
+  <img src="/CU.png" width="100" />
+</p>
 
 <div class="jumbotron">
 <div class="row align-items-end">
