@@ -54,10 +54,9 @@ This has impacted application-specific treatments, including:
 
 </div>
     
-<video class="col-md-6 col-sm-12" id="myvideo" style="background-color:transparent;">
+<div class="col-md-6 col-sm-12" style="background-color:transparent;">
   <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl1.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="500px" frameborder="0" allow="autoplay"></iframe>
-</video>
-<script> document.getElementById('myvideo').play();  </script>
+</div>
   
 <div class="col-md-6 col-sm-12" style="background-color:transparent;">
   <iframe src="{{ site.url }}{{ site.baseurl }}/images/respic/cl2.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="500px" frameborder="0" allow="autoplay"></iframe>
