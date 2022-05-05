@@ -48,13 +48,13 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
- <h4>Idaho National Laboratory, Idaho Falls, USA, Summer 2021</h4>
- <h5> Research Internship, Computational Mechanics and Materials Organisation</h5>
- <ul>
-<li>Modeling hydrogen stability and transport in nuclear reactor materials using density functional theory calculations, ab initio molecular dynamics and kinetic monte carlo simulations, to recommend suitable nuclear reactor materials. <a href="{{ site.url }}{{ site.baseurl }}/papers/AdityaSundar_InternPoster_INL.pdf" target="_blank">Poster</a>.</li><br>
+ <h4>Manuscripts</h4>
+ <ol>
+ <li><u><b>Sundar. A</b></u>, Chen. G & Qi. L (2022). Title: Modeling of Chloride Effect on Localized Corrosion Initiation at Grain Boundary Sites of Passive Oxide Surfaces. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
+
 <li>Predicting the elastic constants and vibrational frequency of hydrides from density functional perturbation theory calculations; collaboration with experimental team to validate calculations</li><br>
 <li>Learning the application of neural networks to solve materials problems.</li>
-</ul>
+</ol>
 </div>
 </div>
 </div>
