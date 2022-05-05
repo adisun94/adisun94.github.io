@@ -48,13 +48,10 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
- <h4>Manuscripts</h4>
- <ol>
- <li><u><b>Sundar. A</b></u>, Chen. G & Qi. L (2022). Title: Modeling of Chloride Effect on Localized Corrosion Initiation at Grain Boundary Sites of Passive Oxide Surfaces. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
-
-<li>Predicting the elastic constants and vibrational frequency of hydrides from density functional perturbation theory calculations; collaboration with experimental team to validate calculations</li><br>
-<li>Learning the application of neural networks to solve materials problems.</li>
-</ol>
+    <h4>Conference</h4>
+    <ol>
+        <li><u><b>Sundar. A</b></u>, Chen. G & Qi. L (2022). Title: Modeling of Chloride Effect on Localized Corrosion Initiation at Grain Boundary Sites of Passive Oxide Surfaces. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
+    </ol>
 </div>
 </div>
 </div>
