@@ -51,6 +51,7 @@ iframe {
  <h4>Conference</h4>
  <ol>
  <li><u><b>Sundar. A</b></u>, Chen. G & Qi. L (2022). Title: Modeling of Chloride Effect on Localized Corrosion Initiation at Grain Boundary Sites of Passive Oxide Surfaces. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
+ <li><u><b>Sundar. A</b></u>, Bugallo-Ferron. D, Hu. Y & Qi. L (2022). Title: Computational Search for BCC Refractory Alloys with Enhanced Strength, Ductility and Corrosion Resistance. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
  </ol>
 </div>
 </div>
