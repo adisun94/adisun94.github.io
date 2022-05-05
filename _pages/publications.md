@@ -48,6 +48,18 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+ <h4>Manuscripts</h4>
+ <ol>
+ <li><u><b>Sundar. A,</b></u>, Yu. J, Qi. L & Cinbiz. N (2022). Accelerated molecular dynamics using machine learned force fields reveals slow diffusion of protonic interstitials in alumina<br></li>
+ </ol>
+</div>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
  <h4>Conference</h4>
  <ol>
  <li><u><b>Sundar. A</b></u>, Chen. G & Qi. L (2022). Title: Modeling of Chloride Effect on Localized Corrosion Initiation at Grain Boundary Sites of Passive Oxide Surfaces. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
