@@ -82,6 +82,12 @@ iframe {
  <ol>
  <li><u><b>Sundar. A</b></u>, Chen. G & Qi. L (2022). Title: Modeling of Chloride Effect on Localized Corrosion Initiation at Grain Boundary Sites of Passive Oxide Surfaces. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
  <li><u><b>Sundar. A</b></u>, Bugallo-Ferron. D, Hu. Y & Qi. L (2022). Title: Computational Search for BCC Refractory Alloys with Enhanced Strength, Ductility and Corrosion Resistance. In 2022 mrs spring meeting & exhibit, Honolulu, USA.<br></li>
+ <li><u><b>Sundar. Aditya</b></u>. Chen. G, & Qi. L (2021). Title: Electronic structure mechanisms to explain the onset of Cl-induced localised corrosion in Al2O3. In The Minerals, Metals \& Materials Society 2021 Annual Meeting & Exhibition, Orlando, USA<br></li>
+ <li>Hu. Y, <u><b>Sundar. Aditya</b></u>, & Qi. L (2021). Title: Screening of generalized stacking fault energies, surface
+  energies and intrinsic ductile potency of refractory multicomponent alloys. In The Minerals, Metals \& Materials Society 2021 Annual Meeting & Exhibition, Orlando, USA<br></li>
+ <li><u><b>Sundar. Aditya</b></u>, Kinzer. B, & Bala Chandran. R (2021). Title: Oxidation and Carburization Behavior of Iron- and Nickel-based Alloys in Supercritical CO2 Environments. 2021 MRS Spring Meeting \& Exhibit, Phoenix, USA<br></li> 
+ <li>Kinzer. B, <u><b>Sundar. Aditya</b></u>, & Bala Chandran. R (2021). Title: Oxide Dispersion Particle Clustering Using Phase Field Modelling in Nickel-Based Superalloys. 2021 MRS Spring Meeting \& Exhibit, Phoenix, USA<br></li> 
+ <li><u><b>Sundar. A</b></u>, & Qi. L (2019). Title: Electric Field Dependent Ionic Transport in Passive Corundum Al2O3 from DFT: Application to Localized Corrosion. In 2019 mrs fall meeting & exhibit, Boston, USA.<br></li>
  </ol>
 </div>
 </div>
