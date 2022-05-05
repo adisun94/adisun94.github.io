@@ -44,18 +44,13 @@ iframe {
 }
 </style>
 
-<div class="jumbotron">
-    <h4>Manuscripts</h4>
-    <ol>
-        <li><u><b>Sundar. A,>/b></u>, Yu. J, Qi. L & Cinbiz. N (2022). Accelerated molecular dynamics using machine learned force fields reveals slow diffusion of protonic interstitials in alumina<br></li>
-    </ol>
-</div>
+
 
 <div class="jumbotron">
     <h4>Journal articles</h4>
     <ol>
-        <li><u><b>Sundar, A.</b></u>, Bugallo-Ferron, D., Hu, Y. & Qi, L. (2022). Automated hierarchical screening of refractory multicomponent alloys with high intrinsic ductility and corrosion resistance, <i> In Review, MRS Communications </i><br></li>
-        <li><u><b>Sundar, A.</b></u>, Huang, Y., Cinbiz, M. & Yu, J. (2022). The impacts of charge transfer, localization, and metallicity on hydrogen retention and transport capacity, <i>In Press, International Journal of Hydrogen Energy</i> <br></li>    
+        <li><u><b>Sundar. A</b></u>, Bugallo-Ferron. D,, Hu. Y, & Qi. L, (2022). Automated hierarchical screening of refractory multicomponent alloys with high intrinsic ductility and corrosion resistance, <i> In Review, MRS Communications </i><br></li>
+        <li><u><b>Sundar. A</b></u>, Huang. Y, Cinbiz. M, & Yu. J, (2022). The impacts of charge transfer, localization, and metallicity on hydrogen retention and transport capacity, <i>In Press, International Journal of Hydrogen Energy</i> <br></li>    
         <li>Hu, Y.,<u><b>Sundar, A.</b></u>, Ogata, S., & Qi, L. (2021). Screening of generalized stacking fault energies, surface energies and intrinsic ductile potency of refractory multicomponent alloys, <i>Acta Materialia</i>, 116800. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645421001804" target="_blank">DOI</a>.<br></li>
         <li><u><b>Sundar, A.</b></u>, Chen, G., & Qi, L. (2021b). Substitutional adsorptions of chloride at grain boundary sites onhydroxylated alumina surfaces initialize localized corrosion. <i>npj Materials Degradation</i>, 5.link.
  <a href="https://doi.org/10.1038/s41529-021-00161-w" target="_blank">DOI</a>.<br></li>
