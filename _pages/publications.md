@@ -56,6 +56,24 @@ iframe {
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+ <h4>Journal articles</h4>
+ <ol>
+ <li><u><b>Sundar. A</b></u>, Bugallo-Ferron. D,, Hu. Y, & Qi. L, (2022). Automated hierarchical screening of refractory multicomponent alloys with high intrinsic ductility and corrosion resistance, <i> In Review, MRS Communications </i><br></li>
+ <li><u><b>Sundar. A</b></u>, Huang. Y, Cinbiz. M, & Yu. J, (2022). The impacts of charge transfer, localization, and metallicity on hydrogen retention and transport capacity, <i>In Press, International Journal of Hydrogen Energy</i> <br></li>    
+ <li>Hu, Y.,<u><b>Sundar, A.</b></u>, Ogata, S., & Qi, L. (2021). Screening of generalized stacking fault energies, surface energies and intrinsic ductile potency of refractory multicomponent alloys, <i>Acta Materialia</i>, 116800. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645421001804" target="_blank">DOI</a>.<br></li>
+ <li><u><b>Sundar, A.</b></u>, Chen, G., & Qi, L. (2021b). Substitutional adsorptions of chloride at grain boundary sites onhydroxylated alumina surfaces initialize localized corrosion. <i>npj Materials Degradation</i>, 5.link. <a href="https://doi.org/10.1038/s41529-021-00161-w" target="_blank">DOI</a>.<br></li>
+ <li><u><b>Sundar, A.</b></u>, & Qi, L. (2021). Stability of native point defects in al2o3 under aqueous electrochemicalconditions. <i>Journal of Applied Electrochemistry</i>. <a href="https://doi.org/10.1007/s10800-020-01526-w" target="_blank">DOI</a>.<br></li>
+ <li>Lu, H., Reese, C., Jeon, S.,<u><b>Sundar, A.</b></u>, Fan, Y., Rizzi, E., . . . Goldman, R. (2020). Mechanisms of ganquantum dot formation during nitridation of ga droplets, <i>Applied Physics Letters</i>, 116(6), 062107 <a href="https://aip.scitation.org/doi/abs/10.1063/1.5133965" target="_blank">DOI</a>.<br></li>
+ <li>Li, W., Nomoto, K.,<u><b>Sundar, A.</b></u>, Lee, K., Zhu, M., Hu, Z., . . . Gao, X. et al. (2019). Realization of ganpolarmos using selective-area regrowth by mbe and its breakdown mechanisms <i>Japanese Journal ofApplied Physics</i>, 58(SC), SCCD15. <a href="https://iopscience.iop.org/article/10.7567/1347-4065/ab0f1b/meta" target="_blank">DOI</a>.<br></li>
+ <li>Vishwanath, S.,<u><b>Sundar, A.</b></u>, Liu, X., Azcatl, A., Lochocki, E., Woll, A. R., . . . Peng, X. et al. (2018). Mbegrowth of few-layer 2h-mote2 on 3d substrates, <i>Journal of Crystal Growth</i>, 482, 61–69.. <a href="https://www.sciencedirect.com/science/article/pii/S0022024817306310" target="_blank">DOI</a>.<br></li>
+  </ol>
+</div>
+</div>
+</div>    
+
 
 <div class="jumbotron">
 <div class="row align-items-end">
