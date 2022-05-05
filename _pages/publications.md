@@ -46,13 +46,7 @@ iframe {
 
 
 
-<div class="jumbotron">
-    <h4>Journal articles</h4>
-    <ol>
 
-        <li>Vishwanath, S.,<u><b>Sundar, A.</b></u>, Liu, X., Azcatl, A., Lochocki, E., Woll, A. R., . . . Peng, X. et al. (2018). Mbegrowth of few-layer 2h-mote2 on 3d substrates, <i>Journal of Crystal Growth</i>, 482, 61–69.. <a href="https://www.sciencedirect.com/science/article/pii/S0022024817306310" target="_blank">DOI</a>.<br></li>
-    </ol>
-</div>
 
 <div class="jumbotron">
     <h4>Conference</h4>
