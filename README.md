@@ -1,5 +1,7 @@
 # Aditya Sundar, PhD student, University of Michigan
 
+**Forked and adapted from [https://comp-physics.group/](https://comp-physics.group/)
+
 **Note: This webpage has been upgraded to use Jekyll plugins. If you are using Github pages you will have to build the website with the Rakefile in the project root directory! My Rakefile is adopted from ones like [this.](https://blog.sorryapp.com/blogging-with-jekyll/2014/01/31/using-jekyll-plugins-on-github-pages.html)**
 
 This is my statically-generated Jekyll/Liquid/Bootstrap-based website.
