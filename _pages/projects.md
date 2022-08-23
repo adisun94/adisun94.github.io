@@ -47,6 +47,10 @@ The repository is available <a href="{{ site.url }}{{ site.baseurl }}/papers/MSE
 </div>
 </div>
 
+<div class="col-md-6 col-sm-12" style="background-color:transparent;">
+  <iframe src="{{ site.url }}{{ site.baseurl }}/images/videos/EVDemo.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="500px" frameborder="0" allow="autoplay"></iframe>
+</div>
+
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
