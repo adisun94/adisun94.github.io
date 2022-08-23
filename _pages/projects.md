@@ -40,7 +40,7 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
  <h4>Electric Vehicle dashboard</h4>
-The repository is available <a href="https://github.com/adisun94/TDI" target="_blank">here</a>. This work used the Dash and Plotly libraries.
+The video shows the key functionality of the app. The repository is available <a href="https://github.com/adisun94/TDI" target="_blank">here</a>. This work used the Dash and Plotly libraries.
 </div>
 <div class="col-md-18 col-sm-12" style="background-color:transparent" >
   <iframe src="{{ site.url }}{{ site.baseurl }}/images/videos/EVDemo.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1"  frameborder="0" allow="autoplay"></iframe>
