@@ -30,6 +30,7 @@ iframe {
   margin:0;
   padding:0;
   width: 700px;
+  height: 600px;
   display: inline;
   vertical-align: middle;
 }
