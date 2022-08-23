@@ -35,6 +35,17 @@ iframe {
 }
 </style>
 
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+ <h4>Electric Vehicle dashboard</h4>
+The repository is available <a href="{{ site.url }}{{ site.baseurl }}/papers/MSE593.pdf" target="_blank">here</a>. This work used the Dash and Plotly libraries.
+</div>
+<div class="col-md-18 col-sm-12" style="background-color:transparent" >
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/MSE593.png" width="700px"/>
+</div>
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="row align-items-end">
