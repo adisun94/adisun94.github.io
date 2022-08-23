@@ -29,7 +29,7 @@ img{
 iframe {
   margin:0;
   padding:0;
-  width: 175px;
+  width: 700px;
   display: inline;
   vertical-align: middle;
 }
