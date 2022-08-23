@@ -50,7 +50,7 @@ iframe {
 <div class="col-md-12 col-sm-12">
  <h4>Manuscripts</h4>
  <ol>
- <li><u><b>Sundar. A, Feinauer. A, Petrasch. J, Qi. L & Bala Chandran. R, Thermodynamic and Kinetic Modeling to Evaluate CO2-induced Corrosion via Oxidation and Carburization in Fe, Ni alloys, In preparation <br></li>
+     <li><u><b>Sundar. A</b>, Feinauer. A, Petrasch. J, Qi. L & Bala Chandran. R, Thermodynamic and Kinetic Modeling to Evaluate CO2-induced Corrosion via Oxidation and Carburization in Fe, Ni alloys, In preparation <br></li>
  </ol>
 </div>
 </div>
