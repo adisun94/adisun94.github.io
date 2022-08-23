@@ -42,14 +42,11 @@ iframe {
 The repository is available <a href="https://github.com/adisun94/TDI" target="_blank">here</a>. This work used the Dash and Plotly libraries.
 </div>
 <div class="col-md-18 col-sm-12" style="background-color:transparent" >
-  <iframe src="{{ site.url }}{{ site.baseurl }}/images/videos/EVDemo.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" width="700px" frameborder="0" allow="autoplay"></iframe>
+  <iframe src="{{ site.url }}{{ site.baseurl }}/images/videos/EVDemo.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1"  frameborder="0" allow="autoplay"></iframe>
 </div>
 </div>
 </div>
 
-<div class="col-md-6 col-sm-12" style="background-color:transparent;">
-  <iframe src="{{ site.url }}{{ site.baseurl }}/images/videos/EVDemo.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="500px" frameborder="0" allow="autoplay"></iframe>
-</div>
 
 <div class="jumbotron">
 <div class="row align-items-end">
