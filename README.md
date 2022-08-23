@@ -1,4 +1,4 @@
-# Aditya Sundar, PhD student, University of Michigan
+# Aditya Sundar, Postdoctoral Researcher, Argonne National Laboratory
 
 **Forked and adapted from [https://comp-physics.group/](https://comp-physics.group/)
 
