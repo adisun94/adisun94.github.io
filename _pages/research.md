@@ -39,10 +39,15 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
- <h4>Materials for energy infrastructure</h4>
+ <h4>Hierarchical Screening Pipelines for Discovery of Structural Materials used in  Energy Infrastructure</h4>
 Refractory metals are crucial structural components in energy industries such as nuclear, solar etc. Target properties for such applications are easy manfacturbility at room temperature and structural-chemical stability in reactive environments at high operational temperatures. Here, a multilevel hierarchical workflow is proposed to enable the development of alloys with the following properties:
 * High ductility at room temperature for easy manufacturability
 * Corrosion resistance by surface passivation at high temperature (over 800 C)
+  
+The data pipiline devised here is shown in the image.
+<div class="col-md-18 col-sm-12" style="background-color:transparent" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/BCCpipeline.png" width="700px"/>
+</div>
 </div>
     
 <div class="col-md-18 col-sm-12" style="background-color:transparent;">
