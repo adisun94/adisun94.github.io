@@ -52,6 +52,6 @@ The data pipiline devised here is shown in the image.
 </div>
     
 <div class="col-md-18 col-sm-12" style="background-color:transparent;">
-  <iframe src="{{ site.url }}{{ site.baseurl }}/images/videos/BCCdemo.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1"  frameborder="0" allow="autoplay"></iframe>
+  <iframe src="{{ site.url }}{{ site.baseurl }}/images/videos/DashApp_BCC_10MB.mp4?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1"  frameborder="0" allow="autoplay"></iframe>
 </div>
   
