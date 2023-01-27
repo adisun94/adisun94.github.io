@@ -68,14 +68,15 @@ Advisor: <a href="http://mme.iitm.ac.in/swamnthn/" target="_blank">Parasuraman S
 <div class="col-md-12 col-sm-12">
  <h4>Skills</h4>
 <ul>
-<li><font color="#AFAF00">Methods</font> : Electronic structure, molecular dynamics, monte carlo, thermodynamics, spectroscopy</li>
-<li><font color="#AFAF00">Atomic simulation</font> : VASP, Quantum ESPRESSO, LAMMPS, ART</li>
-<li><font color="#AFAF00">Materials simulation</font> : Thermo-Calc, Abaqus FEA</li>
-<li><font color="#AFAF00">Computation and design</font> : Python (Numpy, mpi4py, asyncio, web crawling)</li>
+<li><font color="#AFAF00">Computation </font> : Python (Numpy, mpi4py, asyncio), web crawling (selenium, beautifulSoup)</li>
 <li><font color="#AFAF00">Data Analysis</font> : Python (Scikit, OpenCV, Pandas, TensorFlow), Mathematica, R, pymatgen, ASE</li>
 <li><font color="#AFAF00">Visualization</font> : Python (Dash, plotly, seaborn), LaTeX</li>
 <li><font color="#AFAF00">Systems</font> : Windows, Linux, Github, HPC</li>
-<li><font color="#AFAF00">Experiment</font> : XRD, Raman, AFM</li>
+
+<li><font color="#AFAF00">Atomic simulation</font> : VASP, Quantum ESPRESSO, LAMMPS, ART</li>
+<li><font color="#AFAF00">Materials simulation</font> : Thermo-Calc, Abaqus FEA</li>
+
+
 </ul>
 </div>
 </div>
