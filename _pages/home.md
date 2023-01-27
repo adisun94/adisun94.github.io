@@ -8,7 +8,7 @@ permalink: /
 
 ## Welcome to my website!
 
-I am a postdoctoral researcher in the Molecular Materials Group at Argonne National Laboratory. My research interests and experience are in investigating the performance in reactive environments using multiscale modeling methods. I have reserached materials used in various applications, including  battery materials & interfaces, ionic conduction, calalysis, hydrogen storage and alloy design.
+I am a postdoctoral researcher in the Molecular Materials Group at Argonne National Laboratory. My research background is in the development of data pipelines for the discovery of advanced materials in energy applications. I am experienced in the building pipelines covering 1) data curation/generation using HPC sytems, APIs and web crawling techniques, 2) data cleaning & feature engineering using open-source python packages, 3) machine learning model development and validation (ensemble regression, neural networks) for accelerated high-throughput materials discovery and 4) creating interactive apps/dashboards for data visualization. During my doctoral and post-doctoral research, I have worked in several emerging energy technologies including solid-state batteries, hyrogen energy etc.
 
 <div class="col-md-12 col-sm-9" style="background-color:transparent" >
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/cover.png" width="450px"/>
