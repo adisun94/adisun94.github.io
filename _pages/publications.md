@@ -69,25 +69,25 @@ Review at npj Computational Materials.</li>
  <ol>
      <li><u><b>Sundar, A.</b></u>, Tan, X., Hu, S., & Gao, M. C. (2025). Calphad-based bayesian optimization to accelerate alloy discovery for
 high-temperature applications. Journal of Materials Research, 1–11 <a href="https://link.springer.com/article/10.1557/s43578-024-01489-0" target="_blank">DOI</a><br></li>
-     <li>Ercan, C., Mahmut, N. C., Sundar, A., Eugene, M., Jianguo, Y., Xunxiang, H., & Kory, D. L. (2024). Hydrogen motion in
+     <li>Ercan, C., Mahmut, N. C., <u><b>Sundar, A.</b></u>, Eugene, M., Jianguo, Y., Xunxiang, H., & Kory, D. L. (2024). Hydrogen motion in
 stoichiometric yttrium dihydride at elevated temperatures. Journal of Nuclear Materials, 593, 154972. </li>
-     <li>Jobes, D., Rubio-Ejchel, D., Lopez, L., Jenkins, W., Sundar, A., Tandoc, C., . . . Hu, Y.-J. et al. (2024). Computationally
+     <li>Jobes, D., Rubio-Ejchel, D., Lopez, L., Jenkins, W., <u><b>Sundar, A.</b></u>, Tandoc, C., . . . Hu, Y.-J. et al. (2024). Computationally
 guided alloy design and microstructure-property relationships for non-equiatomic ti–zr–nb–ta–v–cr alloys with tensile
 ductility made by laser powder bed fusion. Materials Science and Engineering: A, 911, 146922.</li>
-     <li> Kim, J. J., Kc, B., Park, H., Sundar, A., Evmenenko, G., Buchholz, D. B., . . . Klie, R. F. et al. (2024). Strain-driven surface
+     <li> Kim, J. J., Kc, B., Park, H., <u><b>Sundar, A.</b></u>, Evmenenko, G., Buchholz, D. B., . . . Klie, R. F. et al. (2024). Strain-driven surface
 reactivity in magnesium-ion battery cathodes. Chemistry of Materials, 36(3), 1342–1351</li>
-     <li>Kim, T., Hood, Z. D., Sundar, A., Mane, A. U., Lagunas, F., Kumar, K., . . . Elam, J. W. et al. (2024). Suppressing
+     <li>Kim, T., Hood, Z. D., <u><b>Sundar, A.</b></u>, Mane, A. U., Lagunas, F., Kumar, K., . . . Elam, J. W. et al. (2024). Suppressing
 atmospheric degradation of sulfide-based solid electrolytes via ultrathin metal oxide layers. ACS Materials Letters, 6(12),
 5409–5417. </li>
-     <li>Park, J., Yang, Y., Park, H., Sundar, A., Lee, S., Kinnibrugh, T. L., . . . Klie, R. F. et al. (2024). Entropy-stabilized multication
+     <li>Park, J., Yang, Y., Park, H., <u><b>Sundar, A.</b></u>, Lee, S., Kinnibrugh, T. L., . . . Klie, R. F. et al. (2024). Entropy-stabilized multication
 fluorides as a conversion-type cathode for li-ion batteries–impact of element selection. ACS applied materials & interfaces,
 16(42), 57151–57161.</li>
-     <li>Sundar, A., Feinauer, A., Kinzer, B., Petrasch, J., Qi, L., & Bala Chandran, R. (2024). Thermodynamic, kinetic and
+     <li><u><b>Sundar, A.</b></u>, Feinauer, A., Kinzer, B., Petrasch, J., Qi, L., & Bala Chandran, R. (2024). Thermodynamic, kinetic and
 mechanical modeling to evaluate co2-induced corrosion via oxidation and carburization in fe, ni alloys. Corrosion Science,
 229, 111850.</li>
-     <li>Sundar, A., Yu, J., & Cinbiz, M. N. (2024). Effect of impurities on hydrogen defect stability and migration barrier in yttrium
+     <li><u><b>Sundar, A.</b></u>, Yu, J., & Cinbiz, M. N. (2024). Effect of impurities on hydrogen defect stability and migration barrier in yttrium
 dihydride crystal. International Journal of Hydrogen Energy.</li>
-     <li>Hood, Z. D., Mane, A. U., Sundar, A., Tepavcevic, S., Zapol, P., Eze, U. D., . . . Elam, J. W. et al. (2023b). Multifunctional
+     <li>Hood, Z. D., Mane, A. U., <u><b>Sundar, A.</b></u>, Tepavcevic, S., Zapol, P., Eze, U. D., . . . Elam, J. W. et al. (2023b). Multifunctional
 coatings on sulfide-based solid electrolyte powders with enhanced processability, stability, and performance for solid-state
 batteries. Advanced Materials, 35(21), 2300673. </li>
  <li><u><b>Sundar. A</b></u>, Bugallo-Ferron. D, Hu. Y, & Qi. L, (2022). Automated hierarchical screening of refractory multicomponent alloys with high intrinsic ductility and corrosion resistance, <i> Accepted, MRS Communications </i><br></li>
