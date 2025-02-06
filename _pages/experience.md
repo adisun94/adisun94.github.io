@@ -54,7 +54,7 @@ iframe {
  <h4>Argonne National Laboratory, Lemont, USA, Aug 2022 - </h4>
  <h5>Postdoctoral Researcher, Materials Science Division</h5>
  <ul>
- <li>etup ML-based workflows to model the electrochemical properties of solid-state and redox-flow batteries </li><br>
+ <li>Setup ML-based workflows to model the electrochemical properties of solid-state and redox-flow batteries </li><br>
 <li>Pending patent ’Multifunctional Coatings For Solid State Electrolyte Powders’ (Serial No. 18/514,980) </li>
 </ul>
 </div>
