@@ -51,7 +51,7 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
- <h4>Argonne National Laboratory, Lemont, USA, Aug 2022 - </h4>
+ <h4>Argonne National Laboratory, Lemont, USA, Aug 2022 - Oct 2023</h4>
  <h5>Postdoctoral Researcher, Materials Science Division</h5>
  <ul>
  <li>Setup ML-based workflows to model the electrochemical properties of solid-state and redox-flow batteries </li><br>
