@@ -48,7 +48,7 @@ Advisor: <a href="http://cms.engin.umich.edu" target="_blank">Liang Qi</a></li><
 <li><font color="#AFAF00">M.S. in Materials Science and Engineering, Cornell University, USA, 2017</font><br>
 Thesis title: <u>The Structure and Chemistry of Epitaxial 2D Chalcogenides</u><br>
 Advisor: <a href="http://jena-xing.engineering.cornell.edu/" target="_blank">Huili Grace Xing</a></li><br>
-<li><font color="#AFAF00">B.Tech in Metallurgical and Materials Engineeringy, IIT Madras, India, 2015</font><br>
+<li><font color="#AFAF00">B.Tech in Metallurgical and Materials Engineering, IIT Madras, India, 2015</font><br>
 Minor in Management Studies<br>
 Thesis title: <u>Printed Silver Lines in MIS Solar Cells</u><br>
 Advisor: <a href="http://mme.iitm.ac.in/swamnthn/" target="_blank">Parasuraman Swaminathan</a></li>
@@ -68,14 +68,16 @@ Advisor: <a href="http://mme.iitm.ac.in/swamnthn/" target="_blank">Parasuraman S
 <div class="col-md-12 col-sm-12">
  <h4>Skills</h4>
 <ul>
-<li><font color="#AFAF00">Computation </font> : Python (Numpy, mpi4py, asyncio), web crawling (selenium, beautifulSoup)</li>
-<li><font color="#AFAF00">Data Analysis</font> : Python (Scikit, OpenCV, Pandas, TensorFlow), DeePMD, Mathematica, R</li>
-<li><font color="#AFAF00">Materials Informatics</font> : Pymatgen, ASE, RDKit, Chemprop </li>
-<li><font color="#AFAF00">Visualization</font> : Python (Dash, plotly, seaborn), LaTeX</li>
-<li><font color="#AFAF00">Systems</font> : Windows, Linux, Github, HPC</li><br>
- <li><font color="#AFAF00">Methods</font> : Force-field development, active learning, multiscale materials simulation</li>
+<li><font color="#AFAF00">Methods</font> : Bayesian optimization, force-field development, active learning, electronic structure</li>
 <li><font color="#AFAF00">Atomic simulation</font> : VASP, Quantum ESPRESSO, LAMMPS, ART</li>
 <li><font color="#AFAF00">Materials simulation</font> : Thermo-Calc, Abaqus FEA</li>
+  
+<li><font color="#AFAF00">Computation </font> : Python (Numpy, mpi4py, asyncio), web crawling (selenium, beautifulSoup)</li>
+<li><font color="#AFAF00">Machine Learning Analysis</font> : Python (Pytorch, Scikit, OpenCV, Pandas, TensorFlow), DeePMD, Mathematica, R</li>
+<li><font color="#AFAF00">Materials Informatics</font> : Pymatgen, ASE, RDKit, Chemprop, matminer </li>
+<li><font color="#AFAF00">Visualization</font> : Python (Dash, plotly, seaborn), LaTeX</li>
+<li><font color="#AFAF00">Systems</font> : Windows, Linux, Github, HPC</li><br>
+
 
 
 </ul>
