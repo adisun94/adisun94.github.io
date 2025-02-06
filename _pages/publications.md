@@ -50,7 +50,13 @@ iframe {
 <div class="col-md-12 col-sm-12">
  <h4>Manuscripts</h4>
  <ol>
-     <li><u><b>Sundar. A</b></u>, Feinauer. A, Petrasch. J, Qi. L & Bala Chandran. R, Thermodynamic and Kinetic Modeling to Evaluate CO2-induced Corrosion via Oxidation and Carburization in Fe, Ni alloys, In preparation <br></li>
+     <li><u><b>Sundar, A.</b></u>, Kim, T., Lagunas, F., Mane, A. U., Eze, U. D., Tepavcevic, S., . . . Connell, J. G. (n.d.). Computationally-guided
+development of sulfide solid electrolyte powder coatings for enhanced stability and performance of solid-state batteries. Under Review at Joule <br></li>
+     <li><u><b>Sundar, A.</b></u>, Park, J., Park, H. P., Lee, E., Kim, J. J., & Zapol, P. (n.d.). Bayesian optimization of computed average voltage
+in entropy-stabilized metal fluoride conversion cathodes and their synthesis. In Press at Journal of Power Sources.<br></li>
+     <li>Tan, X., Trehern, W., <u><b>Sundar, A.</b></u>, Wang, Y., San, S., Lu, T., . . . Hu, S. (n.d.). Machine learning and high-throughput
+computational guided development of high temperature oxidation-resisting ni-co-cr-al-fe based high-entropy alloys. Under
+Review at npj Computational Materials.</li>
  </ol>
 </div>
 </div>
@@ -61,7 +67,30 @@ iframe {
 <div class="col-md-12 col-sm-12">
  <h4>Journal articles</h4>
  <ol>
- <li><u><b>Sundar. A</b></u>, Bugallo-Ferron. D,, Hu. Y, & Qi. L, (2022). Automated hierarchical screening of refractory multicomponent alloys with high intrinsic ductility and corrosion resistance, <i> Accepted, MRS Communications </i><br></li>
+     <li><u><b>Sundar, A.</b></u>, Tan, X., Hu, S., & Gao, M. C. (2025). Calphad-based bayesian optimization to accelerate alloy discovery for
+high-temperature applications. Journal of Materials Research, 1–11 <a href="https://link.springer.com/article/10.1557/s43578-024-01489-0" target="_blank">DOI</a><br></li>
+     <li>Ercan, C., Mahmut, N. C., Sundar, A., Eugene, M., Jianguo, Y., Xunxiang, H., & Kory, D. L. (2024). Hydrogen motion in
+stoichiometric yttrium dihydride at elevated temperatures. Journal of Nuclear Materials, 593, 154972. </li>
+     <li>Jobes, D., Rubio-Ejchel, D., Lopez, L., Jenkins, W., Sundar, A., Tandoc, C., . . . Hu, Y.-J. et al. (2024). Computationally
+guided alloy design and microstructure-property relationships for non-equiatomic ti–zr–nb–ta–v–cr alloys with tensile
+ductility made by laser powder bed fusion. Materials Science and Engineering: A, 911, 146922.</li>
+     <li> Kim, J. J., Kc, B., Park, H., Sundar, A., Evmenenko, G., Buchholz, D. B., . . . Klie, R. F. et al. (2024). Strain-driven surface
+reactivity in magnesium-ion battery cathodes. Chemistry of Materials, 36(3), 1342–1351</li>
+     <li>Kim, T., Hood, Z. D., Sundar, A., Mane, A. U., Lagunas, F., Kumar, K., . . . Elam, J. W. et al. (2024). Suppressing
+atmospheric degradation of sulfide-based solid electrolytes via ultrathin metal oxide layers. ACS Materials Letters, 6(12),
+5409–5417. </li>
+     <li>Park, J., Yang, Y., Park, H., Sundar, A., Lee, S., Kinnibrugh, T. L., . . . Klie, R. F. et al. (2024). Entropy-stabilized multication
+fluorides as a conversion-type cathode for li-ion batteries–impact of element selection. ACS applied materials & interfaces,
+16(42), 57151–57161.</li>
+     <li>Sundar, A., Feinauer, A., Kinzer, B., Petrasch, J., Qi, L., & Bala Chandran, R. (2024). Thermodynamic, kinetic and
+mechanical modeling to evaluate co2-induced corrosion via oxidation and carburization in fe, ni alloys. Corrosion Science,
+229, 111850.</li>
+     <li>Sundar, A., Yu, J., & Cinbiz, M. N. (2024). Effect of impurities on hydrogen defect stability and migration barrier in yttrium
+dihydride crystal. International Journal of Hydrogen Energy.</li>
+     <li>Hood, Z. D., Mane, A. U., Sundar, A., Tepavcevic, S., Zapol, P., Eze, U. D., . . . Elam, J. W. et al. (2023b). Multifunctional
+coatings on sulfide-based solid electrolyte powders with enhanced processability, stability, and performance for solid-state
+batteries. Advanced Materials, 35(21), 2300673. </li>
+ <li><u><b>Sundar. A</b></u>, Bugallo-Ferron. D, Hu. Y, & Qi. L, (2022). Automated hierarchical screening of refractory multicomponent alloys with high intrinsic ductility and corrosion resistance, <i> Accepted, MRS Communications </i><br></li>
  <li><u><b>Sundar. A</b></u>, Yu. J, Qi. L & Cinbiz. M, (2022). High temperature stability and transport characteristics of hydrogen in alumina via multiscale computation, <i>In Press, International Journal of Hydrogen Energy</i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360319922031378" target="_blank">DOI</a><br></li>        
  <li><u><b>Sundar. A</b></u>, Huang. Y, Cinbiz. M, & Yu. J, (2022). The impacts of charge transfer, localization, and metallicity on hydrogen retention and transport capacity, <i>In Press, International Journal of Hydrogen Energy</i> Volume 47, Issue 46, 20194-20204. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360319922017177" target="_blank">DOI</a><br></li>    
  <li>Hu, Y.,<u><b>Sundar, A.</b></u>, Ogata, S., & Qi, L. (2021). Screening of generalized stacking fault energies, surface energies and intrinsic ductile potency of refractory multicomponent alloys, <i>Acta Materialia</i>, 116800. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645421001804" target="_blank">DOI</a>.<br></li>
